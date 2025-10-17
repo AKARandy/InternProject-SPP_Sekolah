@@ -12,3 +12,7 @@ https://dapo.dikdasmen.go.id/
 https://data.kemendikdasmen.go.id/
 https://sekolah.data.kemendikdasmen.go.id/
 https://vervalyayasan.data.kemdikbud.go.id/
+
+
+
+Data quality is ok for open source Indonesian data on the internet, although there are rough edges everywhere
