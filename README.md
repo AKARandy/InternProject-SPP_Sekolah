@@ -5,7 +5,7 @@ To use this code:
 
 The data is scraped from multiple sources with selenium and manually (for SPP and some of the Kurikulum) and has some feature engineering done already on the file, but there's also some feature engineering done on the code
 
-The guide on data collecting part will be released in the future
+The guide on data collecting part will be released in the future, for now i will provide the full data of Surabaya and Sidoarjo
 
 Sources for the data:
 https://dapo.dikdasmen.go.id/
