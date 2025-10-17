@@ -16,3 +16,5 @@ https://vervalyayasan.data.kemdikbud.go.id/
 
 
 Data quality is ok for open source Indonesian data on the internet, although there are rough edges everywhere
+
+Feel free to use my data and/or code, just credit me if you want to publish this for work or something
