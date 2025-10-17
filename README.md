@@ -7,7 +7,7 @@ The data is scraped from multiple sources with selenium and manually (for SPP an
 
 The guide on data collecting part will be released in the future
 
-Sources:
+Sources for the data:
 https://dapo.dikdasmen.go.id/
 https://data.kemendikdasmen.go.id/
 https://sekolah.data.kemendikdasmen.go.id/
